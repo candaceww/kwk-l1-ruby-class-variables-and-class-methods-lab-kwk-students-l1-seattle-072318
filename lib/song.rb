@@ -37,4 +37,4 @@ end
 end
 song_one = Song.new("99 Problems", "Jay-Z", "rap")
 
-puts song_one.genre
+puts song_one.name
